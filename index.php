@@ -10,7 +10,7 @@ if(!file_exists($CONFIG["music_link_name"])){
 <!DOCTYPE html>
 <html>
 <head>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 <script src="js/app.js"></script>
 </head>
 <body>
